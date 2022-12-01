@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>ASiNet.Tools.ThemifyIcons</Title>
+    <Authors>ASiDew</Authors>
+    <Company>ASiDew</Company>
+    <Copyright>MIT</Copyright>
+    <Description>Icons from ThemifyIcons font.</Description>
+  </PropertyGroup>
+
+</Project>

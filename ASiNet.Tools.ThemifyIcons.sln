@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33103.201
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASiNet.Tools.ThemifyIcons", "ASiNet.Tools.ThemifyIcons\ASiNet.Tools.ThemifyIcons.csproj", "{E49C813A-F168-411F-A290-3391DF6DAE82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASiNet.Tools.ThemifyIcons.Maui", "ASiNet.Tools.ThemifyIcons.Maui\ASiNet.Tools.ThemifyIcons.Maui.csproj", "{C6400DF6-FAEB-42EE-9978-32BB7F4DCF86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E49C813A-F168-411F-A290-3391DF6DAE82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E49C813A-F168-411F-A290-3391DF6DAE82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E49C813A-F168-411F-A290-3391DF6DAE82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E49C813A-F168-411F-A290-3391DF6DAE82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6400DF6-FAEB-42EE-9978-32BB7F4DCF86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6400DF6-FAEB-42EE-9978-32BB7F4DCF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6400DF6-FAEB-42EE-9978-32BB7F4DCF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6400DF6-FAEB-42EE-9978-32BB7F4DCF86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD5173D9-AF15-42D3-B0D2-B39B45EC4F36}
+	EndGlobalSection
+EndGlobal
