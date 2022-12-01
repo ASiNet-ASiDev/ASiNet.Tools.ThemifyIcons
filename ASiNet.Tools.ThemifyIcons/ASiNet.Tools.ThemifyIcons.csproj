@@ -12,6 +12,7 @@
     <Description>Icons from ThemifyIcons font.</Description>
     <RepositoryType>https://github.com/ASiNet-ASiDev/ASiNet.Tools.ThemifyIcons</RepositoryType>
     <PackageTags>FintIcons, ThemifyIcons</PackageTags>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
